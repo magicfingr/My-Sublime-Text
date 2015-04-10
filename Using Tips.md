@@ -30,6 +30,7 @@ File: Save All
 
 ## 常用插件
 ConvertToUTF8: 编码转换（ST原本只支持UTF8）
+PowerShell: Adds support for the MS PowerShell programming language. [Github project][1]
 
 ## 未尝试
 Clipboard History: 剪切板历史
@@ -41,3 +42,5 @@ PHPTidy: 整理与排版PHP代码
 Doc​Blockr: 生成标准注释，包括函数名、参数、返回值等
 Color​Picker: 需要输入颜色时，可直接选取颜色
 > 默认快捷键 Ctrl + Shift + C
+
+[1]: https://github.com/SublimeText/PowerShell
