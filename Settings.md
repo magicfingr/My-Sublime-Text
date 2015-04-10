@@ -1,6 +1,7 @@
 # Editor Settings
 Preferences -> Settings - User
 change to:
+```
 {
     // "font_face": "consolas",
     "font_size": 11,
@@ -9,7 +10,7 @@ change to:
     "translate_tabs_to_spaces": true,
     "word_wrap": true
 }
-
+```
 
 # Eclipse Style Shortcuts
 Preferences -> Key Bindings - User
